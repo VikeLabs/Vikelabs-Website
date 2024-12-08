@@ -13,7 +13,7 @@ export const Footer = () => {
               </Link>
             </Heading>
             <Text color="white">
-              We acknowledge with respect the Lekwungen peoples on whose
+              We acknowledge with respect the Lək̓ʷəŋən peoples on whose
               traditional territory the University of Victoria stands, and the
               Songhees, Esquimalt and W̱SÁNEĆ peoples whose historical
               relationships with the land continue to this day.

@@ -48,9 +48,10 @@ export const About: NextPage = () => {
                 VIKELABS
               </Heading>
               <Text fontSize="1em" color={textColor} my="5">
-                We are a community of student developers, designers, and
-                entrepreneurs who are passionate about building software
-                solutions for students at the University of Victoria.
+                VikeLabs is a collective of students who learn to build, deploy,
+                and test software apps. We are a community of student developers,
+                designers, and entrepreneurs who are passionate about designing
+                software solutions for students and the UVic campus community.
               </Text>
             </Flex>
             <Flex

@@ -114,13 +114,15 @@ export const Index: NextPage = () => {
           </Center>
           <Box my="6">
             <Text>
-              Each semester starts out with a call for ideas from our members.
-              The VikeLabs executive team will then review new idea proposals to
-              ensure they make sense to include under our umbrella. Each team
-              member then has the opportunity to rank their preferred projects
-              and state who they want to work with (so we don't break up people
-              who joined together). The executive team, working with team leads,
-              will then decide who goes on what team and why.
+              Each semester starts out with a call for ideas from our members
+              during the VikeLabs Kick Off event. If any member is interested 
+              in starting a project they can reach out to the VikeLabs admin 
+              team, who will setup a Discord channel and GitHub project. 
+              Projects can get new members by presenting at the Kick Off event, 
+              posting on Discord, and new members reaching out to the project 
+              lead. Active projects our listed on the VikeLabs website's
+              <a href={"/projects"}> Project page </a>
+              and updated once at the beginning of every term.
             </Text>
           </Box>
           <SimpleGrid columns={[1, 1, 3]} spacing={10} my="6">
